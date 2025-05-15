@@ -1,7 +1,6 @@
 # 🎴 Omnicard - Jeu de Cartes Stratégique et Modulaire
 
-**Omnicard** est un jeu de cartes stratégique, narratif et hautement personnalisable, mêlant des mécaniques originales à une esthétique soignée. Il s’inspire de nombreux univers issus de la pop culture, des jeux vidéo aux animés, en passant par des créations originales. Concevez vos decks à partir de catégories thématiques, combinez les effets et dominez vos adversaires sur le terrain !
-
+**Omnicard** est un jeu de cartes stratégique, narratif et hautement personnalisable, mêlant des mécaniques originales à une esthétique soignée. Il s’inspire de nombreux univers issus de la pop culture, des jeux vidéo aux animés, en passant par des créations originales.
 ---
 
 ## 🗂️ Arborescence du projet
